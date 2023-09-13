@@ -4,6 +4,7 @@ Simple web - Search for movies with IMDb API key, jQuery JavaScript, and Bootstr
 <li>IMDb API key</li>
 <li>jQuery CDN Javascript</li>
 <li>Bootstrap CDN Links</li>
+<br>
 
 ## PC Version
 ![Screenshot 2023-09-13 092406](https://github.com/faisalyudiansah/Jquery-Movies-imdbAPI-Simple-Web/assets/142356615/c13990a1-efc1-40e7-bd5e-e0f074c239a9)
