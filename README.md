@@ -4,7 +4,13 @@ Simple web - Search for movies with OMDb API key, jQuery JavaScript, and Bootstr
 <li>OMDb API key</li>
 <li>jQuery CDN Javascript</li>
 <li>Bootstrap CDN Links</li>
+
 <br>
+
+```
+<script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+```
+
 
 ## PC Version
 ![Screenshot 2023-09-13 092406](https://github.com/faisalyudiansah/Jquery-Movies-imdbAPI-Simple-Web/assets/142356615/c13990a1-efc1-40e7-bd5e-e0f074c239a9)
