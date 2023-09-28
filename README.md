@@ -1,7 +1,7 @@
-# jQuery-Movies-imdbAPI-Simple-Web
-Simple web - Search for movies with IMDb API key, jQuery JavaScript, and Bootstrap.
+# jQuery-Movies-omdbAPI-Simple-Web
+Simple web - Search for movies with OMDb API key, jQuery JavaScript, and Bootstrap.
 <br>
-<li>IMDb API key</li>
+<li>OMDb API key</li>
 <li>jQuery CDN Javascript</li>
 <li>Bootstrap CDN Links</li>
 <br>
